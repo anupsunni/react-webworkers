@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1346d961-de82-4bff-b928-5a0a6d516f1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/worker.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +27,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -59,11 +58,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604222000226</updated>
-      <workItem from="1604222001552" duration="4926000" />
+      <workItem from="1604222001552" duration="8146000" />
+      <workItem from="1604265609785" duration="696000" />
+      <workItem from="1604754925553" duration="114000" />
     </task>
+    <task id="LOCAL-00001" summary="React Web Workers Example">
+      <created>1604250570691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604250570691</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="React Web Workers Example" />
+    <option name="LAST_COMMIT_MESSAGE" value="React Web Workers Example" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1791" y="44" key="CommitChangelistDialog2" timestamp="1604250569354">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1791" y="44" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1604250569354" />
+    <state x="2023" y="343" key="Github.ShareDialog" timestamp="1604250662884">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="2023" y="343" key="Github.ShareDialog/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1604250662884" />
+    <state x="1758" y="182" key="Vcs.Push.Dialog.v2" timestamp="1604250650917">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1758" y="182" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1600.900@1366.0.1600.900" timestamp="1604250650917" />
   </component>
 </project>

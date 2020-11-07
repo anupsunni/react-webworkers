@@ -41,6 +41,7 @@ class App extends Component {
 
     complexAlgoWorker() {
         const {num} = this.state;
+        const data = {};
         this.worker.postMessage(num);
     }
 
@@ -54,7 +55,7 @@ class App extends Component {
                     loadingMessage: `loaded ${i}/${num}`
                 })
             } else {
-                const {result} = e.data;
+                const { result } = e.data;
                 this.setState({
                     result
                 })
